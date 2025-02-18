@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "create_pass", "create_pass\create_pass.csproj", "{D4028AD2-7E88-4786-BD3C-017DBD696F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{09D5DE79-7CB2-42EF-A775-D28101BA328B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D4028AD2-7E88-4786-BD3C-017DBD696F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4028AD2-7E88-4786-BD3C-017DBD696F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4028AD2-7E88-4786-BD3C-017DBD696F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D5DE79-7CB2-42EF-A775-D28101BA328B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D5DE79-7CB2-42EF-A775-D28101BA328B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D5DE79-7CB2-42EF-A775-D28101BA328B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D5DE79-7CB2-42EF-A775-D28101BA328B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
